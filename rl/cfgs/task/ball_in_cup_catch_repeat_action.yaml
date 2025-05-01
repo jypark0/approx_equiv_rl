@@ -1,0 +1,8 @@
+# @package _global_
+defaults:
+  - easy
+  - _self_
+
+domain: ball_in_cup
+task: catch_plain_sky_no_ground
+variant: repeat_action

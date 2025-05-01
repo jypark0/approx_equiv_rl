@@ -1,0 +1,8 @@
+# @package _global_
+defaults:
+  - medium
+  - _self_
+
+domain: acrobot
+task: swingup_plain_sky_no_grid
+variant: original

@@ -1,0 +1,3 @@
+defaults:
+  - non_equiv/default
+  - _self_

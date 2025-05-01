@@ -1,0 +1,8 @@
+defaults:
+  - rpp/default
+  - _self_
+
+cls:
+  encoder_hidden_dim: 16
+  encoder_out_dim: 16
+  hidden_dim: 256

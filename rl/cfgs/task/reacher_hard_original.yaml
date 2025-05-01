@@ -1,0 +1,8 @@
+# @package _global_
+defaults:
+  - easy
+  - _self_
+
+domain: reacher
+task: hard_plain_sky_no_grid
+variant: original

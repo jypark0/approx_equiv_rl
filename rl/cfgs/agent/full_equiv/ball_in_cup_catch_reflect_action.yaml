@@ -1,0 +1,8 @@
+defaults:
+  - full_equiv/default
+  - _self_
+
+cls:
+  encoder_hidden_dim: 22
+  encoder_out_dim: 22
+  hidden_dim: 360

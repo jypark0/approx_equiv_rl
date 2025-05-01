@@ -1,0 +1,17 @@
+termcolor
+numpy
+torch
+torchvision
+term
+wandb
+hydra-core
+hydra-submitit-launcher
+pandas
+matplotlib
+protobuf
+opencv-python
+imageio
+imageio-ffmpeg
+escnn
+ipdb
+seaborn

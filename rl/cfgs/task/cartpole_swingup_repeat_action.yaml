@@ -1,0 +1,8 @@
+# @package _global_
+defaults:
+  - easy
+  - _self_
+
+domain: cartpole
+task: swingup_sparse_plain_sky_no_ground
+variant: repeat_action
